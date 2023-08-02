@@ -1,4 +1,4 @@
-# drink_pure
+# Drink_Pure
 
 A new Flutter project.
 
